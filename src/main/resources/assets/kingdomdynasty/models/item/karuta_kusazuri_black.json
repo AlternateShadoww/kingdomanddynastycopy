@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kingdomdynasty:item/armor/karuta/black/karuta_kusazuri_black"
+  }
+}

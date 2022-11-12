@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item": "kingdomdynasty:tamahagane"
+    },
+    "Y": {
+      "item": "kingdomdynasty:bamboo_stick"
+    }
+  },
+  "result": {
+    "item": "kingdomdynasty:kama"
+  }
+}

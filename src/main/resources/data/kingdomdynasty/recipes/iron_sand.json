@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YZY",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:coal"
+    },
+    "Y": {
+      "item": "minecraft:sand"
+    },
+    "Z": {
+      "item": "minecraft:raw_iron"
+    }
+  },
+  "result": {
+    "item": "kingdomdynasty:iron_sand"
+  }
+}

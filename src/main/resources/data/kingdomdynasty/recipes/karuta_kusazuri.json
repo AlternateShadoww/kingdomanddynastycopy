@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "X X",
+    "Z Z"
+  ],
+  "key": {
+    "X": {
+      "item": "kingdomdynasty:tamahagane"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "item": "kingdomdynasty:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "kingdomdynasty:karuta_kusazuri"
+  }
+}

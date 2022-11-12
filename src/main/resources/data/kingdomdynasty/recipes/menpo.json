@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "kingdomdynasty:tamahagane"
+    },
+    "Y": {
+      "item": "kingdomdynasty:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "kingdomdynasty:menpo"
+  }
+}

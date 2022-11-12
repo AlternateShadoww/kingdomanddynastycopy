@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "kingdomdynasty:karuta_geta"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "kingdomdynasty:karuta_geta_diamond"
+  }
+}

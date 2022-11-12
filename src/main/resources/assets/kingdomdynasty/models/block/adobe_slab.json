@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "kingdomdynasty:block/adobe",
+    "top": "kingdomdynasty:block/adobe",
+    "side": "kingdomdynasty:block/adobe"
+  }
+}

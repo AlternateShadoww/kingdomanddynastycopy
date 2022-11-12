@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingdomdynasty:conical_hat"
+    },
+    {
+      "item": "kingdomdynasty:menpo_black"
+    }
+  ],
+  "result": {
+    "item": "kingdomdynasty:conical_hat_black"
+  }
+}

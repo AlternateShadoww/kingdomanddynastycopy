@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kingdomdynasty:item/armor/karuta_menpo/karuta_kabuto_gold"
+  }
+}

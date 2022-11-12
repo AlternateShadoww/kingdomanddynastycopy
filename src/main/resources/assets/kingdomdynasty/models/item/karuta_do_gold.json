@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kingdomdynasty:item/armor/karuta/gold/karuta_do_gold"
+  }
+}

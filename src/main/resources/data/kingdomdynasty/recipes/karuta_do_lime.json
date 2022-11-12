@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "kingdomdynasty:karuta_do"
+    }
+  ],
+  "result": {
+    "item": "kingdomdynasty:karuta_do_lime"
+  }
+}

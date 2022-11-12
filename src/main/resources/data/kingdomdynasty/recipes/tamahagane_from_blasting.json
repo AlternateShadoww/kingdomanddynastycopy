@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "kingdomdynasty:iron_sand"
+  },
+  "result": "kingdomdynasty:tamahagane",
+  "experience": 2.5,
+  "cookingtime": 120
+}

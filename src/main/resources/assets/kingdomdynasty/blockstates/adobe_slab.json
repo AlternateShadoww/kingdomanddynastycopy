@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kingdomdynasty:block/adobe_slab"
+    },
+    "type=double": {
+      "model": "kingdomdynasty:block/adobe"
+    },
+    "type=top": {
+      "model": "kingdomdynasty:block/adobe_slab_top"
+    }
+  }
+}

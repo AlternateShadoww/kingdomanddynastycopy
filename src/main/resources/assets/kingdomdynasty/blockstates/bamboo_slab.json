@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kingdomdynasty:block/bamboo_slab"
+    },
+    "type=double": {
+      "model": "kingdomdynasty:block/bamboo_planks"
+    },
+    "type=top": {
+      "model": "kingdomdynasty:block/bamboo_slab_top"
+    }
+  }
+}

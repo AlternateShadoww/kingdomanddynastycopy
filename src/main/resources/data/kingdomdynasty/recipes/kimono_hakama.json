@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZZZ",
+    "YXY",
+    "Y Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:leather"
+    },
+    "Z": {
+      "item": "minecraft:white_wool"
+    },
+    "Y": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "kingdomdynasty:kimono_hakama"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingdomdynasty:menpo"
+    },
+    {
+      "item": "kingdomdynasty:karuta_kabuto_orange"
+    }
+  ],
+  "result": {
+    "item": "kingdomdynasty:karuta_kabuto_orange_menpo"
+  }
+}

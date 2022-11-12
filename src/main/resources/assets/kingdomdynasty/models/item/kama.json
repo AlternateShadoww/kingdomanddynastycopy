@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "kingdomdynasty:item/weapons/kama"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-28, -92, 8],
+			"translation": [-0.5, 4.5, 1.25],
+			"scale": [1, 1, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-23, 89, -3],
+			"translation": [-0.25, 2.5, 1],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, -78, 23],
+			"translation": [0.25, 7.25, 3.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 95, -23],
+			"translation": [0.25, 7.5, 3.75]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [-0.5, -1, 0],
+			"scale": [1.2, 1.2, 1]
+		},
+		"head": {
+			"rotation": [180, 86, -32],
+			"translation": [-7.25, -26.75, 1.5],
+			"scale": [1.2, 1.2, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -1.5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

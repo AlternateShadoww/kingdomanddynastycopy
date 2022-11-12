@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "kingdomdynasty:menpo"
+    }
+  ],
+  "result": {
+    "item": "kingdomdynasty:menpo_gold"
+  }
+}

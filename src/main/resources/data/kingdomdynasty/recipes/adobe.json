@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+"pattern": [
+"F#",
+"#F"
+],
+"key": {
+"F": {
+"item": "minecraft:dirt"
+},
+"#": {
+"item": "minecraft:clay_ball"
+}
+},
+"result": {
+"item": "kingdomdynasty:adobe",
+"count": 4
+}
+}

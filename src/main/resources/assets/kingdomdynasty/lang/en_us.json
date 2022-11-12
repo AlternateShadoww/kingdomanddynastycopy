@@ -1,0 +1,63 @@
+{
+  "item.kingdomdynasty.tamahagane": "Tamahagane",
+  "item.kingdomdynasty.katana": "Katana",
+  "item.kingdomdynasty.naginata": "Naginata",
+  "item.kingdomdynasty.shinai": "Shinai",
+  "item.kingdomdynasty.tanto": "Tantō",
+  "item.kingdomdynasty.kama": "Kama",
+  "item.kingdomdynasty.masakari": "Masakari",
+  "item.kingdomdynasty.bamboo_stick": "Bamboo Stick",
+
+
+  "item.kingdomdynasty.conical_hat": "Conical Hat",
+  "item.kingdomdynasty.conical_black_hat": "Black Conical Hat",
+  "item.kingdomdynasty.conical_hat_red": "Conical Hat (Red Menpo)",
+  "item.kingdomdynasty.conical_hat_tamahagane": "Conical Hat (Menpo)",
+  "item.kingdomdynasty.conical_hat_black": "Conical Hat (Black Menpo)",
+  "item.kingdomdynasty.conical_hat_gold": "Conical Hat (Gold Menpo)",
+
+  "item.kingdomdynasty.menpo": "Karuta Menpo",
+  "item.kingdomdynasty.menpo_black": "Black Menpo",
+  "item.kingdomdynasty.menpo_red": "Red Menpo",
+  "item.kingdomdynasty.menpo_gold": "Gold Menpo",
+  "item.kingdomdynasty.karuta_kabuto_black_menpo": "(Black Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_red_menpo": "(Red Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_menpo": "(Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_gold_menpo": "(Gold Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_blue_menpo": "(Blue Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_cyan_menpo": "(Cyan Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_light_blue_menpo": "(Light Blue Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_orange_menpo": "(Orange Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_white_menpo": "(White Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_light_gray_menpo": "(Light Gray Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_gray_menpo": "(Gray Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_lime_menpo": "(Lime Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_green_menpo": "(Green Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_pink_menpo": "(Pink Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_magenta_menpo": "(Magenta Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_purple_menpo": "(Purple Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_brown_menpo": "(Brown Menpo) Karuta Kabuto",
+
+  "item.kingdomdynasty.kimono": "Kimono",
+  "item.kingdomdynasty.kimono_hakama": "Kimono Hakama",
+  
+
+
+  "block.kingdomdynasty.iron_sand": "Iron Sand",
+  "block.kingdomdynasty.adobe": "Adobe",
+  "block.kingdomdynasty.adobe_stairs": "Adobe Stairs",
+  "block.kingdomdynasty.adobe_slab": "Adobe Slab",
+  "block.kingdomdynasty.cutadobe": "Cut Adobe",
+  "block.kingdomdynasty.smoothadobe": "Smooth Adobe",
+  "block.kingdomdynasty.smoothadobe_stairs": "Smooth Adobe Stairs",
+  "block.kingdomdynasty.smoothadobe_slab": "Smooth Adobe Slab",
+  "block.kingdomdynasty.bamboo_planks": "Bamboo Planks",
+  "block.kingdomdynasty.bamboo_slab": "Bamboo Slab",
+  "block.kingdomdynasty.bamboo_stairs": "Bamboo Stairs",
+
+
+  "itemGroup.kingdomdynastyessential": "Kingdoms & Dynasties Essentials",
+  "itemGroup.kingdomdynastyjapan": "Kingdoms & Dynasties Building: Japan",
+  "itemGroup.kingdomdynastyarmor": "Kingdoms & Dynasties Armor",
+  "itemGroup.kingdomdynastyweapons": "Kingdoms & Dynasties Weapons"
+}
